@@ -1,4 +1,4 @@
-# Mobile-3.0-iOS-Тестовое задание №2
+# Mobile-3.0-iOS-Тестовое задание №2 - Python 3
 N = int(input())
 a = [int(i) for i in input().split()]
 a.sort()
